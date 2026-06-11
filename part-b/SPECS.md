@@ -398,7 +398,6 @@ If a service becomes temporarily unavailable, users should see a branded mainten
 
 ---
 
-
 # Feature Spec 6: Accurate Tour Package Filter Counts
 
 ### Problem Statement
